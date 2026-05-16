@@ -1,0 +1,421 @@
+payment_id,client_id,lockbox_amount,category
+PAY0002144,ClientA,663.71,Overpayment
+PAY0001472,ClientB,357.82,Short pay
+PAY0001536,ClientC,207.02,Overpayment
+PAY0001696,ClientC,324.57,Missing claim reference
+PAY0003227,ClientA,444.05,Missing claim reference
+PAY0002252,ClientD,275.24,Timing difference
+PAY0000426,ClientB,412.11,Overpayment
+PAY0001873,ClientB,754.85,Short pay
+PAY0002074,ClientA,1032.53,Timing difference
+PAY0002594,ClientD,839.75,Missing claim reference
+PAY0002648,ClientC,383.98,Short pay
+PAY0003035,ClientB,974.38,Timing difference
+PAY0003203,ClientC,563.91,Missing claim reference
+PAY0000887,ClientD,17.45,Missing claim reference
+PAY0001015,ClientD,400.04,Overpayment
+PAY0000885,ClientD,183.19,Missing claim reference
+PAY0001987,ClientC,566.56,Timing difference
+PAY0002435,ClientC,412.11,Missing claim reference
+PAY0003177,ClientA,604.03,Overpayment
+PAY0000223,ClientC,250.45,Short pay
+PAY0002881,ClientB,344.77,Timing difference
+PAY0002714,ClientB,734.92,Missing claim reference
+PAY0002317,ClientD,238.85,Overpayment
+PAY0000015,ClientC,461.95,Overpayment
+PAY0000675,ClientC,786.12,Timing difference
+PAY0001278,ClientC,103.75,Short pay
+PAY0001298,ClientC,622.62,Short pay
+PAY0000590,ClientD,639.24,Missing claim reference
+PAY0001946,ClientD,936.34,Short pay
+PAY0000830,ClientA,471.81,Timing difference
+PAY0002896,ClientD,750.42,Short pay
+PAY0002741,ClientC,519.83,Timing difference
+PAY0000702,ClientD,2336.58,Missing claim reference
+PAY0001363,ClientC,345.51,Missing claim reference
+PAY0003310,ClientC,985.48,Overpayment
+PAY0001205,ClientC,592.98,Short pay
+PAY0001063,ClientA,140.56,Overpayment
+PAY0000486,ClientA,404.13,Short pay
+PAY0001199,ClientC,162.36,Short pay
+PAY0001580,ClientD,585.59,Overpayment
+PAY0002916,ClientA,396.63,Overpayment
+PAY0001662,ClientB,285.6,Overpayment
+PAY0002689,ClientC,996.52,Timing difference
+PAY0003278,ClientD,213.84,Missing claim reference
+PAY0000553,ClientD,522.82,Missing claim reference
+PAY0002732,ClientD,317.61,Missing claim reference
+PAY0003215,ClientB,367.21,Short pay
+PAY0000435,ClientC,616.88,Missing claim reference
+PAY0000740,ClientC,1044.35,Overpayment
+PAY0002822,ClientB,369.5,Missing claim reference
+PAY0001699,ClientB,1038.53,Timing difference
+PAY0000757,ClientA,1002.24,Short pay
+PAY0000444,ClientD,504.04,Missing claim reference
+PAY0001893,ClientC,593.31,Short pay
+PAY0003521,ClientC,445.51,Short pay
+PAY0002606,ClientA,737.52,Short pay
+PAY0001522,ClientB,858.82,Overpayment
+PAY0000534,ClientD,295.18,Short pay
+PAY0002313,ClientA,330.02,Overpayment
+PAY0000560,ClientC,435.71,Missing claim reference
+PAY0002106,ClientB,1090.37,Short pay
+PAY0000903,ClientD,447.04,Timing difference
+PAY0002506,ClientB,528.0,Short pay
+PAY0001548,ClientD,794.83,Short pay
+PAY0000258,ClientD,649.34,Timing difference
+PAY0001264,ClientD,457.33,Timing difference
+PAY0000780,ClientD,1539.06,Overpayment
+PAY0001391,ClientD,1235.07,Overpayment
+PAY0000723,ClientB,412.11,Short pay
+PAY0003312,ClientC,492.27,Timing difference
+PAY0001386,ClientC,147.3,Timing difference
+PAY0002437,ClientA,236.96,Timing difference
+PAY0000623,ClientB,232.38,Missing claim reference
+PAY0002449,ClientC,512.07,Short pay
+PAY0002798,ClientD,1287.11,Overpayment
+PAY0001759,ClientD,478.05,Missing claim reference
+PAY0002661,ClientD,364.82,Timing difference
+PAY0000909,ClientA,165.86,Missing claim reference
+PAY0003201,ClientD,257.66,Missing claim reference
+PAY0002730,ClientC,576.44,Missing claim reference
+PAY0000916,ClientD,872.45,Timing difference
+PAY0002447,ClientD,456.68,Timing difference
+PAY0001877,ClientB,157.28,Timing difference
+PAY0001119,ClientC,405.99,Timing difference
+PAY0002256,ClientC,184.76,Missing claim reference
+PAY0003202,ClientA,687.46,Overpayment
+PAY0002378,ClientA,1286.73,Missing claim reference
+PAY0000055,ClientA,658.95,Missing claim reference
+PAY0000581,ClientA,239.86,Timing difference
+PAY0001595,ClientB,138.26,Missing claim reference
+PAY0000473,ClientA,714.72,Overpayment
+PAY0001526,ClientA,553.1,Timing difference
+PAY0000755,ClientD,579.53,Overpayment
+PAY0002501,ClientA,612.29,Missing claim reference
+PAY0000342,ClientB,657.96,Missing claim reference
+PAY0001392,ClientC,531.98,Timing difference
+PAY0000918,ClientC,578.06,Overpayment
+PAY0000398,ClientB,169.61,Short pay
+PAY0003439,ClientD,183.78,Short pay
+PAY0000329,ClientA,130.21,Short pay
+PAY0001756,ClientA,1121.57,Overpayment
+PAY0003497,ClientD,170.27,Missing claim reference
+PAY0002099,ClientC,860.58,Timing difference
+PAY0000908,ClientD,1008.84,Overpayment
+PAY0002612,ClientD,276.31,Overpayment
+PAY0002954,ClientC,292.83,Overpayment
+PAY0003478,ClientC,541.6,Missing claim reference
+PAY0000300,ClientA,235.78,Overpayment
+PAY0002461,ClientB,653.29,Missing claim reference
+PAY0001377,ClientC,206.61,Missing claim reference
+PAY0002257,ClientA,987.37,Missing claim reference
+PAY0003296,ClientD,339.38,Missing claim reference
+PAY0003253,ClientB,491.56,Missing claim reference
+PAY0001275,ClientD,1587.49,Missing claim reference
+PAY0002814,ClientB,932.59,Missing claim reference
+PAY0001938,ClientA,541.07,Overpayment
+PAY0000966,ClientD,410.66,Short pay
+PAY0003487,ClientC,433.77,Timing difference
+PAY0001833,ClientA,188.01,Timing difference
+PAY0001704,ClientB,1253.44,Missing claim reference
+PAY0002224,ClientA,876.04,Overpayment
+PAY0000048,ClientA,1047.31,Short pay
+PAY0000703,ClientB,725.12,Missing claim reference
+PAY0000420,ClientA,729.51,Timing difference
+PAY0002003,ClientC,129.19,Short pay
+PAY0000664,ClientA,789.18,Missing claim reference
+PAY0000787,ClientB,1037.05,Missing claim reference
+PAY0000085,ClientA,704.77,Missing claim reference
+PAY0000692,ClientA,554.99,Overpayment
+PAY0002748,ClientB,249.97,Missing claim reference
+PAY0002779,ClientA,460.25,Short pay
+PAY0003150,ClientB,549.86,Overpayment
+PAY0001882,ClientC,397.96,Timing difference
+PAY0001452,ClientC,593.13,Short pay
+PAY0003357,ClientB,602.26,Timing difference
+PAY0000083,ClientA,223.97,Short pay
+PAY0002773,ClientC,482.45,Overpayment
+PAY0001146,ClientC,425.18,Short pay
+PAY0003571,ClientA,256.16,Short pay
+PAY0001356,ClientD,333.37,Missing claim reference
+PAY0002025,ClientD,430.2,Timing difference
+PAY0002843,ClientA,448.07,Timing difference
+PAY0000152,ClientC,333.21,Overpayment
+PAY0002068,ClientD,1002.59,Missing claim reference
+PAY0000170,ClientC,164.98,Timing difference
+PAY0003383,ClientA,316.32,Short pay
+PAY0002287,ClientC,182.48,Short pay
+PAY0002621,ClientC,408.68,Overpayment
+PAY0000554,ClientD,62.42,Short pay
+PAY0002019,ClientB,359.68,Overpayment
+PAY0002377,ClientA,265.3,Overpayment
+PAY0003194,ClientD,1039.64,Timing difference
+PAY0002855,ClientB,958.38,Short pay
+PAY0001939,ClientC,959.83,Timing difference
+PAY0001782,ClientA,457.91,Overpayment
+PAY0000968,ClientA,284.94,Timing difference
+PAY0000385,ClientA,1232.81,Overpayment
+PAY0003361,ClientD,907.95,Missing claim reference
+PAY0001960,ClientB,139.8,Missing claim reference
+PAY0002052,ClientA,943.05,Short pay
+PAY0002548,ClientD,142.31,Missing claim reference
+PAY0002416,ClientB,704.03,Timing difference
+PAY0001552,ClientB,1345.76,Short pay
+PAY0000622,ClientB,273.19,Overpayment
+PAY0001121,ClientD,99.53,Overpayment
+PAY0003540,ClientD,1359.6,Missing claim reference
+PAY0001567,ClientA,219.56,Timing difference
+PAY0000155,ClientB,458.47,Missing claim reference
+PAY0000352,ClientA,370.64,Overpayment
+PAY0000682,ClientA,819.18,Missing claim reference
+PAY0003583,ClientB,217.44,Missing claim reference
+PAY0000070,ClientA,1094.82,Missing claim reference
+PAY0000874,ClientC,365.65,Missing claim reference
+PAY0000967,ClientA,805.65,Short pay
+PAY0001186,ClientD,162.41,Timing difference
+PAY0000574,ClientA,302.61,Timing difference
+PAY0002177,ClientB,866.81,Short pay
+PAY0001679,ClientC,362.94,Short pay
+PAY0002651,ClientD,768.54,Overpayment
+PAY0003136,ClientC,383.67,Missing claim reference
+PAY0000086,ClientD,126.93,Timing difference
+PAY0001493,ClientC,582.72,Overpayment
+PAY0000063,ClientD,480.55,Timing difference
+PAY0001357,ClientC,922.22,Overpayment
+PAY0000965,ClientA,312.33,Overpayment
+PAY0002138,ClientB,200.66,Short pay
+PAY0001776,ClientC,136.41,Missing claim reference
+PAY0001360,ClientD,394.16,Timing difference
+PAY0000628,ClientB,301.33,Missing claim reference
+PAY0002066,ClientA,538.37,Missing claim reference
+PAY0000905,ClientD,39.21,Overpayment
+PAY0001035,ClientD,513.68,Overpayment
+PAY0003452,ClientD,274.61,Timing difference
+PAY0002787,ClientB,392.18,Timing difference
+PAY0000202,ClientC,675.32,Short pay
+PAY0002556,ClientD,418.27,Timing difference
+PAY0000292,ClientC,116.86,Missing claim reference
+PAY0001270,ClientD,476.65,Overpayment
+PAY0002073,ClientA,625.31,Missing claim reference
+PAY0000225,ClientB,584.67,Overpayment
+PAY0001499,ClientD,270.17,Short pay
+PAY0002458,ClientC,533.5,Short pay
+PAY0003058,ClientD,494.8,Missing claim reference
+PAY0001628,ClientD,593.12,Short pay
+PAY0002463,ClientD,227.43,Overpayment
+PAY0000973,ClientA,640.99,Overpayment
+PAY0003364,ClientC,345.4,Timing difference
+PAY0003468,ClientA,227.59,Overpayment
+PAY0002187,ClientB,829.7,Timing difference
+PAY0000717,ClientD,522.68,Overpayment
+PAY0002976,ClientB,381.09,Short pay
+PAY0001078,ClientA,545.89,Missing claim reference
+PAY0003099,ClientC,596.42,Missing claim reference
+PAY0003519,ClientC,31.25,Missing claim reference
+PAY0002588,ClientC,333.22,Short pay
+PAY0000677,ClientD,597.02,Overpayment
+PAY0000392,ClientB,225.18,Missing claim reference
+PAY0000624,ClientC,222.36,Short pay
+PAY0001277,ClientC,174.46,Short pay
+PAY0001528,ClientB,403.07,Timing difference
+PAY0000890,ClientD,334.14,Overpayment
+PAY0002480,ClientC,429.1,Short pay
+PAY0000233,ClientB,295.26,Short pay
+PAY0003284,ClientD,381.83,Overpayment
+PAY0000596,ClientC,260.25,Timing difference
+PAY0001813,ClientC,368.13,Missing claim reference
+PAY0000982,ClientC,498.79,Timing difference
+PAY0002828,ClientC,182.21,Timing difference
+PAY0002925,ClientB,470.64,Timing difference
+PAY0001786,ClientB,600.43,Overpayment
+PAY0002097,ClientD,140.85,Missing claim reference
+PAY0002046,ClientD,740.05,Timing difference
+PAY0002393,ClientB,1175.82,Timing difference
+PAY0000704,ClientA,411.4,Overpayment
+PAY0000274,ClientB,828.84,Missing claim reference
+PAY0002396,ClientA,249.9,Short pay
+PAY0002180,ClientB,369.21,Short pay
+PAY0001609,ClientB,570.0,Timing difference
+PAY0000748,ClientB,316.96,Short pay
+PAY0001341,ClientC,878.08,Missing claim reference
+PAY0002753,ClientD,675.84,Overpayment
+PAY0000844,ClientC,211.49,Overpayment
+PAY0002397,ClientB,739.31,Short pay
+PAY0002827,ClientD,433.64,Overpayment
+PAY0001804,ClientB,157.8,Timing difference
+PAY0001569,ClientC,635.59,Timing difference
+PAY0001824,ClientB,637.79,Overpayment
+PAY0002085,ClientB,376.14,Short pay
+PAY0002970,ClientD,342.54,Overpayment
+PAY0000117,ClientC,1566.9,Overpayment
+PAY0000820,ClientC,1204.01,Timing difference
+PAY0000081,ClientA,507.17,Missing claim reference
+PAY0000177,ClientA,532.23,Missing claim reference
+PAY0002303,ClientA,301.23,Short pay
+PAY0001267,ClientB,358.89,Short pay
+PAY0000308,ClientA,150.79,Short pay
+PAY0001431,ClientB,324.14,Missing claim reference
+PAY0000169,ClientB,559.0,Missing claim reference
+PAY0001857,ClientB,57.44,Short pay
+PAY0002148,ClientB,464.78,Short pay
+PAY0003108,ClientA,1356.11,Timing difference
+PAY0000910,ClientA,1259.12,Overpayment
+PAY0002157,ClientC,552.81,Short pay
+PAY0001682,ClientD,823.68,Overpayment
+PAY0003500,ClientB,344.26,Timing difference
+PAY0000416,ClientB,99.98,Missing claim reference
+PAY0001408,ClientD,333.03,Missing claim reference
+PAY0001670,ClientC,859.01,Timing difference
+PAY0001780,ClientB,259.03,Missing claim reference
+PAY0002446,ClientB,1222.39,Missing claim reference
+PAY0001668,ClientB,300.01,Missing claim reference
+PAY0002234,ClientC,416.52,Short pay
+PAY0002479,ClientB,1551.41,Overpayment
+PAY0002667,ClientD,210.64,Timing difference
+PAY0001040,ClientA,514.43,Timing difference
+PAY0002911,ClientA,171.61,Short pay
+PAY0002179,ClientA,211.03,Short pay
+PAY0000557,ClientD,776.37,Timing difference
+PAY0001921,ClientA,166.94,Timing difference
+PAY0003344,ClientB,436.58,Short pay
+PAY0001000,ClientB,316.32,Missing claim reference
+PAY0000114,ClientB,247.25,Overpayment
+PAY0001477,ClientA,1102.71,Missing claim reference
+PAY0000380,ClientC,315.97,Missing claim reference
+PAY0001403,ClientA,1071.37,Overpayment
+PAY0002659,ClientA,382.99,Short pay
+PAY0002848,ClientB,308.77,Short pay
+PAY0002909,ClientC,128.96,Missing claim reference
+PAY0002135,ClientA,149.31,Overpayment
+PAY0002057,ClientA,1088.56,Short pay
+PAY0003002,ClientB,829.98,Timing difference
+PAY0000144,ClientA,511.31,Missing claim reference
+PAY0002771,ClientA,637.61,Overpayment
+PAY0002818,ClientC,98.22,Missing claim reference
+PAY0001784,ClientA,286.69,Timing difference
+PAY0003240,ClientA,249.12,Missing claim reference
+PAY0002564,ClientB,984.17,Short pay
+PAY0002205,ClientA,1935.73,Missing claim reference
+PAY0001597,ClientB,347.79,Short pay
+PAY0001725,ClientA,228.31,Overpayment
+PAY0003336,ClientD,86.8,Missing claim reference
+PAY0003577,ClientC,271.02,Short pay
+PAY0001963,ClientA,361.27,Short pay
+PAY0000849,ClientB,23.36,Timing difference
+PAY0003562,ClientB,326.29,Timing difference
+PAY0001822,ClientB,2005.07,Short pay
+PAY0000705,ClientD,566.11,Short pay
+PAY0000261,ClientB,99.86,Short pay
+PAY0001664,ClientD,715.41,Short pay
+PAY0001489,ClientA,1271.47,Overpayment
+PAY0000937,ClientA,617.19,Short pay
+PAY0000130,ClientC,304.47,Short pay
+PAY0003401,ClientC,809.3,Overpayment
+PAY0001269,ClientA,275.51,Timing difference
+PAY0002129,ClientD,1101.83,Short pay
+PAY0003399,ClientC,908.41,Timing difference
+PAY0003502,ClientC,173.02,Short pay
+PAY0003034,ClientC,690.21,Short pay
+PAY0001480,ClientA,300.83,Short pay
+PAY0000212,ClientD,750.65,Missing claim reference
+PAY0000640,ClientC,488.14,Overpayment
+PAY0000715,ClientC,512.24,Short pay
+PAY0003027,ClientD,392.76,Missing claim reference
+PAY0002332,ClientA,450.62,Short pay
+PAY0000179,ClientA,561.55,Missing claim reference
+PAY0001732,ClientA,322.37,Missing claim reference
+PAY0001534,ClientA,842.13,Short pay
+PAY0001687,ClientB,327.69,Missing claim reference
+PAY0001563,ClientA,334.7,Missing claim reference
+PAY0003015,ClientC,1101.99,Short pay
+PAY0002681,ClientB,1027.49,Short pay
+PAY0003359,ClientB,705.45,Overpayment
+PAY0001506,ClientB,1124.24,Timing difference
+PAY0002064,ClientA,920.4,Short pay
+PAY0001142,ClientD,1251.05,Timing difference
+PAY0001666,ClientB,188.83,Missing claim reference
+PAY0002664,ClientA,574.01,Overpayment
+PAY0000051,ClientA,143.67,Timing difference
+PAY0000394,ClientB,577.86,Timing difference
+PAY0000306,ClientC,239.06,Timing difference
+PAY0002672,ClientA,343.68,Short pay
+PAY0001599,ClientD,579.01,Timing difference
+PAY0002330,ClientC,739.63,Overpayment
+PAY0000860,ClientD,555.1,Timing difference
+PAY0001530,ClientD,480.08,Short pay
+PAY0001229,ClientD,740.84,Missing claim reference
+PAY0001289,ClientD,1229.7,Short pay
+PAY0000690,ClientA,622.43,Timing difference
+PAY0003293,ClientD,845.99,Overpayment
+PAY0002162,ClientB,94.55,Timing difference
+PAY0001524,ClientD,116.83,Short pay
+PAY0003239,ClientB,698.11,Timing difference
+PAY0000804,ClientB,188.57,Overpayment
+PAY0003043,ClientC,569.39,Timing difference
+PAY0000875,ClientD,1239.77,Missing claim reference
+PAY0000324,ClientC,103.4,Short pay
+PAY0002079,ClientA,57.0,Missing claim reference
+PAY0002131,ClientC,286.34,Short pay
+PAY0002699,ClientD,360.61,Overpayment
+PAY0001829,ClientC,505.18,Timing difference
+PAY0001274,ClientC,48.36,Missing claim reference
+PAY0002726,ClientB,497.27,Timing difference
+PAY0003264,ClientA,201.03,Overpayment
+PAY0003030,ClientB,264.43,Overpayment
+PAY0002277,ClientB,213.91,Missing claim reference
+PAY0000402,ClientA,278.43,Timing difference
+PAY0002487,ClientC,308.13,Timing difference
+PAY0003110,ClientD,522.08,Overpayment
+PAY0001945,ClientD,173.06,Timing difference
+PAY0001260,ClientB,225.13,Short pay
+PAY0002169,ClientC,83.63,Missing claim reference
+PAY0000535,ClientD,321.52,Missing claim reference
+PAY0003062,ClientC,516.04,Missing claim reference
+PAY0002631,ClientC,328.83,Timing difference
+PAY0000370,ClientB,53.91,Missing claim reference
+PAY0002589,ClientB,610.87,Overpayment
+PAY0000536,ClientC,956.01,Missing claim reference
+PAY0001262,ClientD,554.85,Overpayment
+PAY0000489,ClientD,210.86,Missing claim reference
+PAY0003052,ClientB,443.44,Short pay
+PAY0000230,ClientD,372.33,Short pay
+PAY0003340,ClientA,516.59,Missing claim reference
+PAY0001473,ClientB,1445.81,Overpayment
+PAY0001007,ClientD,1358.39,Timing difference
+PAY0000186,ClientC,190.51,Overpayment
+PAY0000236,ClientA,365.91,Missing claim reference
+PAY0002557,ClientB,458.87,Overpayment
+PAY0000075,ClientA,396.79,Missing claim reference
+PAY0001953,ClientC,290.69,Timing difference
+PAY0003070,ClientD,516.64,Short pay
+PAY0002985,ClientA,736.3,Timing difference
+PAY0003276,ClientB,1201.08,Short pay
+PAY0002325,ClientA,484.01,Overpayment
+PAY0001809,ClientC,847.83,Overpayment
+PAY0000182,ClientA,205.51,Overpayment
+PAY0002171,ClientB,317.84,Short pay
+PAY0000700,ClientB,1003.91,Short pay
+PAY0002674,ClientD,134.64,Short pay
+PAY0003525,ClientB,516.64,Missing claim reference
+PAY0001091,ClientB,564.26,Overpayment
+PAY0002442,ClientC,588.89,Timing difference
+PAY0001796,ClientD,838.51,Short pay
+PAY0003105,ClientD,309.13,Timing difference
+PAY0002311,ClientA,325.0,Timing difference
+PAY0003038,ClientB,1096.0,Overpayment
+PAY0000856,ClientB,410.24,Missing claim reference
+PAY0000453,ClientB,299.72,Overpayment
+PAY0000360,ClientC,240.47,Overpayment
+PAY0001411,ClientD,54.4,Timing difference
+PAY0000978,ClientD,346.35,Timing difference
+PAY0001432,ClientC,88.65,Short pay
+PAY0001133,ClientC,387.76,Missing claim reference
+PAY0001706,ClientA,236.76,Overpayment
+PAY0001346,ClientD,95.33,Missing claim reference
+PAY0002122,ClientC,98.0,Timing difference
+PAY0003374,ClientA,942.31,Overpayment
+PAY0000615,ClientD,533.34,Timing difference
+PAY0000524,ClientC,363.27,Overpayment
+PAY0002742,ClientA,331.87,Overpayment
+PAY0001633,ClientA,772.11,Overpayment

@@ -1,0 +1,7 @@
+-- Logical table inventory for Healthcare Receivables Reconciliation Analytics
+    -- Source table: pharmacy_claims
+-- Source table: lockbox_payments
+-- Source table: cash_postings
+-- Source table: unapplied_cash
+-- Source table: adjustment_recommendations
+    -- In a warehouse, define typed source tables here and load CSV extracts from data/raw.

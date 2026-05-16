@@ -1,0 +1,351 @@
+claim_id,client_id,allowed_amount,recommendation,recommended_amount
+RXC00002439,ClientB,277.55,GL write-off review,28.77
+RXC00003783,ClientA,699.87,GL write-off review,173.25
+RXC00003314,ClientA,192.73,GL write-off review,13.86
+RXC00004827,ClientA,95.09,Rebill candidate,20.13
+RXC00000719,ClientC,177.66,Rebill candidate,12.2
+RXC00004544,ClientC,487.26,Contractual adjustment,34.22
+RXC00002514,ClientC,147.11,Contractual adjustment,29.8
+RXC00002019,ClientA,142.44,GL write-off review,20.18
+RXC00000343,ClientB,511.54,Rebill candidate,156.4
+RXC00000622,ClientD,218.66,Contractual adjustment,64.94
+RXC00003666,ClientB,132.06,GL write-off review,41.98
+RXC00000171,ClientC,14.41,Rebill candidate,1.94
+RXC00001045,ClientD,316.61,GL write-off review,94.76
+RXC00002879,ClientA,357.99,Contractual adjustment,63.34
+RXC00002818,ClientC,312.92,Contractual adjustment,73.87
+RXC00002462,ClientC,490.27,Rebill candidate,102.44
+RXC00000376,ClientA,298.82,Rebill candidate,30.85
+RXC00000827,ClientC,41.42,GL write-off review,2.31
+RXC00004341,ClientA,313.27,Rebill candidate,69.63
+RXC00002193,ClientD,453.82,Contractual adjustment,87.64
+RXC00002139,ClientC,430.39,GL write-off review,95.36
+RXC00001047,ClientC,387.27,GL write-off review,112.5
+RXC00001932,ClientD,395.47,Contractual adjustment,85.65
+RXC00002556,ClientC,916.1,GL write-off review,62.21
+RXC00000821,ClientA,11.06,Rebill candidate,2.09
+RXC00001657,ClientD,429.8,Rebill candidate,145.63
+RXC00004674,ClientC,243.42,GL write-off review,16.83
+RXC00001554,ClientD,221.63,Rebill candidate,58.24
+RXC00004189,ClientA,17.04,Rebill candidate,4.47
+RXC00004035,ClientC,365.03,Contractual adjustment,77.66
+RXC00003613,ClientB,125.44,GL write-off review,8.72
+RXC00001455,ClientC,121.81,Contractual adjustment,29.83
+RXC00000968,ClientD,272.63,Rebill candidate,16.44
+RXC00000773,ClientA,535.87,Contractual adjustment,167.02
+RXC00003253,ClientA,72.28,Contractual adjustment,14.5
+RXC00003265,ClientB,166.44,GL write-off review,50.04
+RXC00004354,ClientB,438.56,Rebill candidate,102.12
+RXC00003072,ClientC,273.36,Rebill candidate,17.0
+RXC00004654,ClientA,68.69,Rebill candidate,12.11
+RXC00002013,ClientD,124.53,GL write-off review,27.75
+RXC00003293,ClientB,776.29,Rebill candidate,71.27
+RXC00000891,ClientA,899.82,Rebill candidate,101.86
+RXC00000160,ClientD,830.33,GL write-off review,222.36
+RXC00002147,ClientD,45.62,GL write-off review,5.98
+RXC00004784,ClientD,232.55,Rebill candidate,26.24
+RXC00000488,ClientC,455.52,Rebill candidate,97.9
+RXC00002826,ClientB,348.5,Contractual adjustment,109.31
+RXC00000868,ClientB,44.98,GL write-off review,9.88
+RXC00000243,ClientD,1198.44,Contractual adjustment,75.47
+RXC00002833,ClientB,97.98,Contractual adjustment,34.14
+RXC00003361,ClientD,303.6,GL write-off review,80.53
+RXC00001539,ClientC,131.56,Contractual adjustment,26.49
+RXC00005138,ClientB,498.72,Rebill candidate,27.59
+RXC00001891,ClientA,481.51,GL write-off review,167.48
+RXC00001297,ClientD,371.36,GL write-off review,73.06
+RXC00003321,ClientC,479.5,GL write-off review,34.25
+RXC00002839,ClientA,97.1,Rebill candidate,25.94
+RXC00001056,ClientB,1200.27,Rebill candidate,235.35
+RXC00002735,ClientA,164.0,Contractual adjustment,52.19
+RXC00002704,ClientA,586.74,Contractual adjustment,204.27
+RXC00004238,ClientD,79.19,Rebill candidate,8.25
+RXC00002697,ClientA,189.7,GL write-off review,61.9
+RXC00003248,ClientC,223.77,Contractual adjustment,49.51
+RXC00001902,ClientC,511.19,Rebill candidate,169.4
+RXC00000685,ClientA,55.09,Rebill candidate,8.26
+RXC00002665,ClientD,177.75,GL write-off review,26.39
+RXC00000722,ClientA,700.3,Contractual adjustment,188.24
+RXC00000175,ClientC,366.08,Rebill candidate,42.84
+RXC00004912,ClientD,51.75,Contractual adjustment,3.42
+RXC00000034,ClientB,1230.08,Contractual adjustment,135.78
+RXC00000621,ClientA,558.21,GL write-off review,154.37
+RXC00001081,ClientC,912.58,Contractual adjustment,207.87
+RXC00002969,ClientB,261.41,GL write-off review,89.45
+RXC00003291,ClientD,401.12,Contractual adjustment,109.98
+RXC00000904,ClientD,582.96,Contractual adjustment,172.0
+RXC00004156,ClientD,385.99,Rebill candidate,128.49
+RXC00003713,ClientC,366.83,Rebill candidate,112.5
+RXC00003922,ClientB,345.89,Contractual adjustment,66.67
+RXC00003243,ClientD,300.99,Rebill candidate,22.31
+RXC00004884,ClientA,211.6,GL write-off review,37.98
+RXC00003936,ClientA,521.36,Contractual adjustment,48.21
+RXC00002030,ClientB,463.12,Contractual adjustment,134.18
+RXC00002955,ClientD,440.27,Contractual adjustment,110.9
+RXC00002850,ClientC,535.95,Contractual adjustment,161.36
+RXC00002295,ClientB,643.92,Contractual adjustment,118.58
+RXC00004028,ClientC,482.76,GL write-off review,149.66
+RXC00003989,ClientB,383.12,GL write-off review,60.46
+RXC00004101,ClientA,262.76,Contractual adjustment,81.97
+RXC00004093,ClientC,116.62,Rebill candidate,7.42
+RXC00000434,ClientB,227.72,Contractual adjustment,72.45
+RXC00002757,ClientB,148.79,Rebill candidate,44.04
+RXC00001873,ClientB,1169.4,Contractual adjustment,389.01
+RXC00004455,ClientB,243.33,GL write-off review,73.85
+RXC00000787,ClientB,96.91,Contractual adjustment,19.95
+RXC00000654,ClientC,328.17,Contractual adjustment,30.01
+RXC00002708,ClientD,90.15,GL write-off review,20.12
+RXC00000957,ClientB,183.22,Contractual adjustment,38.63
+RXC00001125,ClientA,317.02,Rebill candidate,17.46
+RXC00000050,ClientD,694.42,Rebill candidate,209.7
+RXC00002229,ClientC,349.0,Rebill candidate,104.05
+RXC00003532,ClientC,371.87,Rebill candidate,102.56
+RXC00001124,ClientC,395.09,Contractual adjustment,55.48
+RXC00004109,ClientB,485.22,GL write-off review,145.31
+RXC00000166,ClientA,458.88,GL write-off review,26.03
+RXC00001049,ClientB,581.41,GL write-off review,30.75
+RXC00002754,ClientC,351.12,GL write-off review,25.52
+RXC00001677,ClientC,261.61,Contractual adjustment,86.57
+RXC00001962,ClientA,123.43,GL write-off review,31.25
+RXC00003741,ClientD,258.81,Rebill candidate,86.66
+RXC00000730,ClientC,228.19,GL write-off review,71.15
+RXC00001860,ClientD,321.91,Contractual adjustment,35.82
+RXC00001933,ClientC,712.59,Rebill candidate,139.04
+RXC00001531,ClientC,447.29,GL write-off review,107.28
+RXC00000085,ClientB,312.92,Contractual adjustment,66.12
+RXC00002686,ClientC,202.06,Rebill candidate,51.89
+RXC00004121,ClientC,128.12,Contractual adjustment,37.81
+RXC00001675,ClientA,334.21,Contractual adjustment,54.55
+RXC00002592,ClientB,444.91,Rebill candidate,150.04
+RXC00005177,ClientB,294.74,Rebill candidate,33.95
+RXC00003101,ClientB,16.44,Contractual adjustment,4.76
+RXC00000234,ClientD,391.71,GL write-off review,52.12
+RXC00000741,ClientB,211.57,Rebill candidate,47.22
+RXC00002539,ClientB,27.92,Rebill candidate,3.55
+RXC00000765,ClientB,402.57,Rebill candidate,32.11
+RXC00004825,ClientC,390.79,GL write-off review,83.57
+RXC00004940,ClientC,286.05,Contractual adjustment,90.27
+RXC00005197,ClientA,479.88,Contractual adjustment,62.2
+RXC00005111,ClientA,981.52,Rebill candidate,101.61
+RXC00003778,ClientB,1616.62,GL write-off review,181.6
+RXC00004862,ClientC,58.66,GL write-off review,16.74
+RXC00002456,ClientB,276.67,Rebill candidate,95.53
+RXC00003858,ClientB,56.18,Rebill candidate,17.89
+RXC00000412,ClientC,367.22,Contractual adjustment,52.59
+RXC00000777,ClientC,248.06,Rebill candidate,70.37
+RXC00005095,ClientB,431.12,Rebill candidate,84.02
+RXC00000069,ClientB,85.97,Rebill candidate,9.69
+RXC00000664,ClientB,301.07,GL write-off review,53.47
+RXC00001294,ClientC,633.15,Contractual adjustment,220.47
+RXC00002595,ClientD,301.28,GL write-off review,84.44
+RXC00002220,ClientC,583.85,Contractual adjustment,117.23
+RXC00003459,ClientC,355.49,GL write-off review,62.01
+RXC00001618,ClientD,630.77,GL write-off review,98.39
+RXC00003318,ClientB,54.74,Contractual adjustment,3.72
+RXC00003567,ClientA,422.88,Rebill candidate,29.9
+RXC00000185,ClientD,201.32,Rebill candidate,58.44
+RXC00004687,ClientC,196.6,GL write-off review,52.45
+RXC00004853,ClientC,44.12,Rebill candidate,6.22
+RXC00001697,ClientD,323.66,GL write-off review,45.97
+RXC00000726,ClientD,525.96,GL write-off review,170.79
+RXC00000851,ClientA,562.47,GL write-off review,99.26
+RXC00003471,ClientC,190.52,GL write-off review,64.74
+RXC00000831,ClientA,578.61,Rebill candidate,186.45
+RXC00001456,ClientA,266.16,Rebill candidate,85.87
+RXC00001028,ClientC,458.95,Contractual adjustment,144.15
+RXC00001545,ClientC,745.96,Rebill candidate,233.41
+RXC00001920,ClientA,367.04,Rebill candidate,127.68
+RXC00000121,ClientC,277.87,GL write-off review,49.52
+RXC00000595,ClientA,388.73,Rebill candidate,73.83
+RXC00004699,ClientA,691.22,GL write-off review,224.26
+RXC00001843,ClientB,327.84,Rebill candidate,100.25
+RXC00001260,ClientC,369.08,Contractual adjustment,29.03
+RXC00003333,ClientB,361.46,GL write-off review,20.97
+RXC00004636,ClientC,90.09,GL write-off review,20.05
+RXC00004890,ClientA,444.47,GL write-off review,102.43
+RXC00001564,ClientB,193.29,Contractual adjustment,33.35
+RXC00005045,ClientA,592.39,GL write-off review,109.05
+RXC00002228,ClientB,368.17,Contractual adjustment,35.64
+RXC00001018,ClientB,751.43,Rebill candidate,107.73
+RXC00004179,ClientC,405.21,GL write-off review,82.75
+RXC00003194,ClientC,425.8,GL write-off review,144.99
+RXC00003203,ClientA,862.45,Rebill candidate,82.12
+RXC00003646,ClientA,227.53,Contractual adjustment,51.18
+RXC00000154,ClientA,158.12,Rebill candidate,44.34
+RXC00000338,ClientC,145.71,GL write-off review,46.57
+RXC00000628,ClientC,495.48,Rebill candidate,104.33
+RXC00000191,ClientC,435.59,Rebill candidate,75.0
+RXC00003304,ClientD,1178.81,Contractual adjustment,142.65
+RXC00000534,ClientA,459.32,Contractual adjustment,63.17
+RXC00001720,ClientA,782.57,Contractual adjustment,104.84
+RXC00002062,ClientC,271.15,Contractual adjustment,51.66
+RXC00001711,ClientC,692.16,Rebill candidate,79.45
+RXC00003637,ClientB,225.25,Rebill candidate,74.66
+RXC00001707,ClientB,418.92,Rebill candidate,120.3
+RXC00000752,ClientA,319.01,Rebill candidate,72.39
+RXC00004331,ClientD,451.44,Contractual adjustment,144.08
+RXC00002888,ClientA,478.32,GL write-off review,135.26
+RXC00003379,ClientA,333.62,Contractual adjustment,93.49
+RXC00004447,ClientB,130.36,Contractual adjustment,17.87
+RXC00001412,ClientD,84.83,Rebill candidate,25.26
+RXC00000998,ClientB,183.03,Contractual adjustment,49.04
+RXC00000701,ClientA,285.6,GL write-off review,68.1
+RXC00003873,ClientB,698.02,Contractual adjustment,61.03
+RXC00001060,ClientA,1250.39,Rebill candidate,332.65
+RXC00004084,ClientB,1285.02,Rebill candidate,77.99
+RXC00001079,ClientC,110.84,Contractual adjustment,17.69
+RXC00004029,ClientB,341.13,GL write-off review,69.06
+RXC00002398,ClientD,734.88,GL write-off review,251.3
+RXC00001004,ClientC,174.31,GL write-off review,41.87
+RXC00000392,ClientB,605.02,Contractual adjustment,58.06
+RXC00004987,ClientD,120.64,GL write-off review,14.26
+RXC00001997,ClientB,290.83,GL write-off review,101.35
+RXC00000021,ClientD,1132.16,GL write-off review,307.06
+RXC00000504,ClientB,484.91,Contractual adjustment,125.4
+RXC00001009,ClientA,326.21,Rebill candidate,101.81
+RXC00003037,ClientA,214.27,GL write-off review,42.19
+RXC00001453,ClientD,734.17,Rebill candidate,205.83
+RXC00004117,ClientC,70.77,Rebill candidate,18.04
+RXC00001058,ClientC,162.55,Contractual adjustment,19.19
+RXC00003435,ClientC,114.41,Contractual adjustment,15.39
+RXC00003405,ClientB,940.11,Rebill candidate,319.75
+RXC00003907,ClientC,261.57,GL write-off review,88.67
+RXC00002866,ClientC,204.6,Contractual adjustment,15.61
+RXC00002372,ClientD,142.22,GL write-off review,41.78
+RXC00001652,ClientC,400.14,Contractual adjustment,135.84
+RXC00002903,ClientC,249.0,Rebill candidate,74.28
+RXC00002809,ClientB,217.45,Contractual adjustment,25.41
+RXC00002962,ClientC,242.69,Contractual adjustment,43.64
+RXC00001494,ClientD,529.86,Rebill candidate,64.9
+RXC00003864,ClientD,654.12,GL write-off review,112.44
+RXC00000684,ClientD,724.35,GL write-off review,201.02
+RXC00004649,ClientB,407.06,Rebill candidate,125.88
+RXC00004534,ClientD,211.44,GL write-off review,36.23
+RXC00002406,ClientD,147.92,Contractual adjustment,37.93
+RXC00001327,ClientB,77.18,GL write-off review,15.91
+RXC00000987,ClientC,763.47,Rebill candidate,136.87
+RXC00002450,ClientD,140.33,Contractual adjustment,21.77
+RXC00002951,ClientB,887.65,GL write-off review,81.66
+RXC00003992,ClientD,407.52,Contractual adjustment,41.32
+RXC00002769,ClientB,101.22,Rebill candidate,12.01
+RXC00004192,ClientD,511.14,Contractual adjustment,110.18
+RXC00003014,ClientC,497.44,Contractual adjustment,159.87
+RXC00004103,ClientC,308.77,Rebill candidate,27.13
+RXC00002346,ClientC,182.81,GL write-off review,15.44
+RXC00001543,ClientC,309.13,Contractual adjustment,77.36
+RXC00002638,ClientD,95.32,GL write-off review,29.33
+RXC00004774,ClientD,362.61,Rebill candidate,72.24
+RXC00001345,ClientD,53.22,Contractual adjustment,11.13
+RXC00003496,ClientA,109.0,Contractual adjustment,32.34
+RXC00000227,ClientA,465.59,Contractual adjustment,99.55
+RXC00002210,ClientB,100.28,Contractual adjustment,29.18
+RXC00002198,ClientC,469.36,Contractual adjustment,50.64
+RXC00001854,ClientC,210.71,Rebill candidate,37.26
+RXC00004160,ClientC,74.02,Rebill candidate,4.59
+RXC00004981,ClientD,206.36,GL write-off review,60.54
+RXC00001402,ClientD,562.21,Contractual adjustment,194.15
+RXC00002598,ClientD,472.1,Rebill candidate,144.03
+RXC00003697,ClientC,318.17,Contractual adjustment,36.49
+RXC00002811,ClientA,430.58,Rebill candidate,121.69
+RXC00004518,ClientB,92.95,Rebill candidate,7.76
+RXC00005198,ClientB,78.19,Rebill candidate,4.17
+RXC00001112,ClientB,139.57,GL write-off review,27.49
+RXC00004772,ClientC,164.56,Contractual adjustment,29.02
+RXC00003677,ClientC,427.44,Rebill candidate,100.89
+RXC00003759,ClientC,407.45,GL write-off review,97.29
+RXC00004547,ClientA,199.95,Contractual adjustment,53.53
+RXC00002729,ClientC,166.24,Rebill candidate,48.66
+RXC00004038,ClientB,291.21,Contractual adjustment,40.71
+RXC00004877,ClientA,189.2,Contractual adjustment,37.91
+RXC00003813,ClientB,248.01,Rebill candidate,19.12
+RXC00001014,ClientA,124.88,GL write-off review,37.16
+RXC00000687,ClientC,300.97,Rebill candidate,17.42
+RXC00001525,ClientC,451.07,Contractual adjustment,46.91
+RXC00000720,ClientC,125.69,GL write-off review,42.83
+RXC00001134,ClientD,311.9,Contractual adjustment,100.66
+RXC00002440,ClientD,146.49,Rebill candidate,46.09
+RXC00004002,ClientD,139.75,Contractual adjustment,22.01
+RXC00004537,ClientC,172.17,Rebill candidate,28.41
+RXC00003024,ClientB,457.1,GL write-off review,117.18
+RXC00004824,ClientD,401.34,GL write-off review,100.91
+RXC00003477,ClientA,543.9,GL write-off review,189.4
+RXC00003603,ClientA,170.58,Rebill candidate,37.53
+RXC00000346,ClientC,255.67,Contractual adjustment,72.64
+RXC00002150,ClientD,688.51,Contractual adjustment,171.36
+RXC00003047,ClientC,118.44,Rebill candidate,28.26
+RXC00003143,ClientD,345.76,GL write-off review,104.81
+RXC00003394,ClientB,365.15,Contractual adjustment,114.16
+RXC00000114,ClientD,223.23,Contractual adjustment,14.06
+RXC00001769,ClientA,669.92,Rebill candidate,178.81
+RXC00000779,ClientA,227.7,Rebill candidate,26.93
+RXC00004226,ClientB,425.0,Contractual adjustment,76.86
+RXC00001095,ClientB,477.56,Contractual adjustment,30.39
+RXC00001299,ClientA,522.28,GL write-off review,89.48
+RXC00003419,ClientD,453.57,Rebill candidate,153.29
+RXC00000541,ClientA,264.84,Rebill candidate,14.31
+RXC00004167,ClientA,184.51,Rebill candidate,57.63
+RXC00002907,ClientA,424.91,GL write-off review,90.66
+RXC00003691,ClientD,638.4,Rebill candidate,188.55
+RXC00001779,ClientC,151.08,GL write-off review,40.85
+RXC00002374,ClientB,243.13,GL write-off review,52.71
+RXC00001671,ClientA,34.16,Rebill candidate,11.87
+RXC00001334,ClientC,534.25,GL write-off review,114.24
+RXC00000042,ClientA,243.72,Rebill candidate,66.22
+RXC00002385,ClientC,640.61,GL write-off review,166.29
+RXC00002831,ClientA,825.48,Rebill candidate,166.24
+RXC00004567,ClientB,126.64,Contractual adjustment,36.05
+RXC00000876,ClientC,363.31,GL write-off review,75.38
+RXC00004105,ClientC,438.03,Contractual adjustment,48.14
+RXC00002064,ClientD,149.09,Contractual adjustment,34.42
+RXC00004052,ClientB,257.42,Contractual adjustment,35.11
+RXC00003273,ClientD,167.36,Contractual adjustment,51.42
+RXC00002566,ClientD,308.6,Rebill candidate,101.05
+RXC00001471,ClientB,558.61,Rebill candidate,59.17
+RXC00002003,ClientA,199.89,Rebill candidate,24.15
+RXC00003167,ClientD,93.36,Rebill candidate,7.15
+RXC00004504,ClientC,475.79,Rebill candidate,126.74
+RXC00004513,ClientA,364.82,Contractual adjustment,122.41
+RXC00003964,ClientA,359.71,Rebill candidate,121.21
+RXC00000193,ClientC,620.48,GL write-off review,45.69
+RXC00003002,ClientC,499.87,Contractual adjustment,28.91
+RXC00001441,ClientD,510.1,Contractual adjustment,156.49
+RXC00003865,ClientC,60.79,GL write-off review,12.42
+RXC00004325,ClientC,156.94,Rebill candidate,22.04
+RXC00002275,ClientC,544.41,GL write-off review,61.57
+RXC00002658,ClientA,498.13,GL write-off review,122.74
+RXC00000278,ClientC,245.96,GL write-off review,34.99
+RXC00000249,ClientB,385.84,Rebill candidate,61.13
+RXC00000714,ClientB,743.87,Contractual adjustment,175.4
+RXC00000215,ClientD,197.89,Rebill candidate,56.28
+RXC00002760,ClientB,181.5,Rebill candidate,36.9
+RXC00004021,ClientB,227.6,Contractual adjustment,48.45
+RXC00004019,ClientD,126.89,GL write-off review,18.59
+RXC00000365,ClientD,159.46,GL write-off review,18.3
+RXC00005071,ClientC,262.35,Rebill candidate,78.39
+RXC00001002,ClientC,452.57,Contractual adjustment,141.83
+RXC00002922,ClientD,95.99,Rebill candidate,32.07
+RXC00001847,ClientD,228.18,Contractual adjustment,56.9
+RXC00004888,ClientD,507.5,GL write-off review,42.69
+RXC00000019,ClientB,210.73,GL write-off review,53.1
+RXC00001486,ClientA,114.63,Rebill candidate,21.68
+RXC00004417,ClientB,286.94,Contractual adjustment,70.6
+RXC00005108,ClientA,338.85,GL write-off review,88.43
+RXC00001074,ClientD,589.0,Contractual adjustment,34.54
+RXC00001209,ClientD,351.67,Contractual adjustment,71.08
+RXC00004844,ClientC,769.91,Contractual adjustment,191.15
+RXC00000088,ClientB,556.19,Contractual adjustment,157.98
+RXC00000614,ClientC,143.8,Rebill candidate,30.55
+RXC00002415,ClientC,118.54,Contractual adjustment,19.53
+RXC00003900,ClientB,389.6,Rebill candidate,61.78
+RXC00003183,ClientB,590.94,GL write-off review,145.77
+RXC00004643,ClientA,693.83,Rebill candidate,198.95
+RXC00004779,ClientB,379.4,Contractual adjustment,61.83
+RXC00004907,ClientC,246.46,Rebill candidate,71.08
+RXC00001121,ClientD,229.04,GL write-off review,51.21
+RXC00002291,ClientC,375.42,Rebill candidate,27.15
+RXC00001369,ClientC,96.37,Rebill candidate,5.93
+RXC00004866,ClientD,365.16,GL write-off review,110.12
+RXC00004271,ClientB,360.99,GL write-off review,124.15
+RXC00002424,ClientB,164.69,Rebill candidate,13.61
+RXC00001027,ClientA,313.21,Rebill candidate,44.97
+RXC00001562,ClientD,247.18,GL write-off review,74.05
