@@ -1,6 +1,6 @@
 # Healthcare Receivables Reconciliation Analytics
 
-    **6-second recruiter summary:** Healthcare finance operations project reconciling prescription claims, lockbox payments, cash posting, unapplied cash, contractual adjustments, rebilling candidates, and client reporting outputs.
+    ** Healthcare finance operations project reconciling prescription claims, lockbox payments, cash posting, unapplied cash, contractual adjustments, rebilling candidates, and client reporting outputs.
 
     ## Business Problem
     Organizations need reliable analytics that connect operational activity, data quality, exceptions, and stakeholder-ready KPIs. This project simulates Healthcare prescription receivables, unapplied cash, claims/cash posting, reconciliation, and client reporting using realistic synthetic data and production-style analytics assets.
